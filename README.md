@@ -33,6 +33,7 @@ ________________________________________________________________________________
 
 III.
 2.
-<img width="377" alt="Screenshot 2024-02-26 at 3 45 55" src="https://github.com/TeoTodorov16/Fibank-App/assets/75938303/50523e78-177e-4f55-882d-aa32adb74710">
-<img width="379" alt="Screenshot 2024-02-26 at 3 47 14" src="https://github.com/TeoTodorov16/Fibank-App/assets/75938303/3b8d0f3f-1739-4194-82a1-f2be539ff03b">
+<img width="377" alt="Screenshot 2024-02-26 at 3 45 55" src="https://github.com/TeoTodorov16/FibankApp/assets/75938303/8455c648-dc5b-4c88-824a-61774f760cd1">
+<img width="379" alt="Screenshot 2024-02-26 at 3 47 14" src="https://github.com/TeoTodorov16/FibankApp/assets/75938303/b1258677-7eb9-4292-af1f-03432c11e777">
+
 
